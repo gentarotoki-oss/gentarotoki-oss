@@ -23,4 +23,6 @@ Aiming to be a quant trader. Interested in high-frequency trading and market mic
 - **Languages**: Rust, Python, TypeScript
 - **Libraries / Tools**: NumPy, SciPy, pandas, scikit-learn, PyTorch, FastAPI, React, Git
 
-<!-- TODO: 公開してよい連絡先（メール、LinkedIn など）が決まったら Contact の節を足す -->
+## Contact
+
+gentaro.toki@gmail.com
